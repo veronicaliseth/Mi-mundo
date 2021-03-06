@@ -24,6 +24,7 @@ main(){
 void pedirDatos(){
 	cout<<"Llamo al 911-Ingrese su nombre completo por favor"<<endl;
 	cin>>nombre;
+	cout<<"Tu nombre es: "<<nombre<<endl;
 	cout<<"Eliga el tipo de incidente por el cual pidio ayuda"<<endl;
 	cout<<"1.Accidente de vehiculo automotor con lesiones"<<endl;
 	cout<<"2.Accidente de aeronave con fallecido"<<endl;
